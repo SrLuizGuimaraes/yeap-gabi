@@ -205,6 +205,16 @@
     "featured_collections_Yk6KQG": {
       "type": "featured-collections",
       "blocks": {
+        "collection_7XXbNF": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
         "collection_kJURLm": {
           "type": "collection",
           "settings": {
@@ -217,10 +227,11 @@
         }
       },
       "block_order": [
+        "collection_7XXbNF",
         "collection_kJURLm"
       ],
       "custom_css": [
-
+        ".price-list{display:none}"
       ],
       "settings": {
         "separate_section_with_border": true,
