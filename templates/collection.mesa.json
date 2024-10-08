@@ -12,18 +12,19 @@
     "collection-banner": {
       "type": "collection-banner",
       "settings": {
+        "image": "shopify://shop_images/cafe-cup-on-wood-table.jpg",
         "image_size": "xs",
         "allow_transparent_header": true,
-        "reveal": true,
-        "enable_parallax": true,
+        "reveal": false,
+        "enable_parallax": false,
         "show_collection_title": true,
-        "show_collection_description": true,
-        "show_breadcrumb": true,
+        "show_collection_description": false,
+        "show_breadcrumb": false,
         "content_width": "xs",
         "background": "#000000",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "image_with_text_NReknX": {
