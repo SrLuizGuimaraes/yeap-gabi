@@ -196,7 +196,7 @@
         "stack_collections": false,
         "collections_per_row_desktop": 4,
         "subheading": "",
-        "title": "Caterorias",
+        "title": "",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
@@ -210,7 +210,7 @@
           "settings": {
             "collection": "kimono",
             "products_count": 8,
-            "title": "best sallers",
+            "title": "Best sellers",
             "link_url": "",
             "link_text": "explore mais"
           }
@@ -220,7 +220,8 @@
         "collection_kJURLm"
       ],
       "custom_css": [
-        ".price-list {display: none;}"
+        ".price-list {display: none;}",
+        ".h2 {display: none;}"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -230,7 +231,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "que encantam e tornam cada momento especial"
+        "subheading": ""
       }
     },
     "image_with_text_YYNfVt": {
@@ -254,11 +255,40 @@
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
+    },
+    "rich_text_acExkH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bazyAG": {
+          "type": "heading",
+          "settings": {
+            "text": "Best Sellers",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_HaEpC9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Que encantam e tornam cada momento especial</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bazyAG",
+        "richtext_HaEpC9"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "slideshow",
     "collection_list_LNQHQ7",
+    "rich_text_acExkH",
     "featured_collections_Yk6KQG",
     "image_with_text_YYNfVt"
   ]
