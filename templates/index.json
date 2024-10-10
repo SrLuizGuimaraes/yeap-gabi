@@ -202,6 +202,34 @@
         "circle_button_text_color": "#1c1c1c"
       }
     },
+    "rich_text_acExkH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bazyAG": {
+          "type": "heading",
+          "settings": {
+            "text": "Best Sellers",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_HaEpC9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Que encantam e tornam cada momento especial</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bazyAG",
+        "richtext_HaEpC9"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
     "featured_collections_Yk6KQG": {
       "type": "featured-collections",
       "blocks": {
@@ -254,34 +282,6 @@
         "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_acExkH": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_bazyAG": {
-          "type": "heading",
-          "settings": {
-            "text": "Best Sellers",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_HaEpC9": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Que encantam e tornam cada momento especial</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_bazyAG",
-        "richtext_HaEpC9"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
       }
     }
   },
