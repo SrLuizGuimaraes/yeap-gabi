@@ -41,19 +41,7 @@
     "heading_color": "#1c1c1c",
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "15746506029051422284": {
-        "type": "shopify://apps/mega-code-embed/blocks/code-body/f06216cf-23cd-4ffb-8719-16e9a878d094",
-        "disabled": false,
-        "settings": {
-          "html_code": "",
-          "css_code": "",
-          "js_code": "",
-          "liquid_code": ""
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Allure": {

@@ -30,13 +30,6 @@
     "image_with_text_NReknX": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_kqkzBd": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_JPbxLe": {
           "type": "heading",
           "settings": {
@@ -53,7 +46,7 @@
         "button_PiHTVQ": {
           "type": "button",
           "settings": {
-            "style": "solid",
+            "style": "outline",
             "text": "Button text",
             "url": "",
             "background": "",
@@ -62,7 +55,6 @@
         }
       },
       "block_order": [
-        "subheading_kqkzBd",
         "heading_JPbxLe",
         "richtext_nKjree",
         "button_PiHTVQ"
