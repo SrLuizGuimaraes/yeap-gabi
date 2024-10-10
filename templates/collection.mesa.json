@@ -195,16 +195,6 @@
     "featured_collections_iHXXTV": {
       "type": "featured-collections",
       "blocks": {
-        "collection_RbGX9G": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        },
         "collection_XY3qMw": {
           "type": "collection",
           "settings": {
@@ -217,7 +207,6 @@
         }
       },
       "block_order": [
-        "collection_RbGX9G",
         "collection_XY3qMw"
       ],
       "settings": {
