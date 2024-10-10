@@ -225,7 +225,7 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "content_width": "sm",
+        "content_width": "md",
         "text_position": "center",
         "remove_vertical_spacing": true
       }
