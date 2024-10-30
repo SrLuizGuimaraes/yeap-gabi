@@ -33,31 +33,13 @@
         "heading_JPbxLe": {
           "type": "heading",
           "settings": {
-            "text": "Nossa linha",
+            "text": "Sirva com estilo e charme!",
             "heading_tag": "h1"
-          }
-        },
-        "richtext_nKjree": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_PiHTVQ": {
-          "type": "button",
-          "settings": {
-            "style": "outline",
-            "text": "Button text",
-            "url": "",
-            "background": "",
-            "text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_JPbxLe",
-        "richtext_nKjree",
-        "button_PiHTVQ"
+        "heading_JPbxLe"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -75,7 +57,7 @@
           "settings": {
             "collection": "",
             "products_count": 8,
-            "title": "Nossos Pratos",
+            "title": "Nossas garrafas",
             "link_url": "",
             "link_text": "View all"
           }
@@ -126,10 +108,10 @@
           "settings": {
             "collection": "",
             "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
+            "content_position": "place-self-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -154,29 +136,11 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "collection_xRiAXD": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
         }
       },
       "block_order": [
         "collection_iFr3Hk",
-        "collection_jbVaDT",
-        "collection_xRiAXD"
+        "collection_jbVaDT"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -184,9 +148,9 @@
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
-        "collections_per_row_desktop": 3,
+        "collections_per_row_desktop": 2,
         "subheading": "",
-        "title": "",
+        "title": "Saleiro e pimenteiro",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
@@ -200,7 +164,7 @@
           "settings": {
             "collection": "",
             "products_count": 8,
-            "title": "Nossos sousplats",
+            "title": "Nossas tábuas",
             "link_url": "",
             "link_text": "View all"
           }
@@ -208,136 +172,6 @@
       },
       "block_order": [
         "collection_XY3qMw"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
-    "featured_collections_pVcyqr": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_RqdWdB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Nossos jogos americanos",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_RqdWdB"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
-    "collection_list_EK4L3x": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_XkJ78L": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_JH3QYJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_hnXjd4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_hnXjd4"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Para deixar o seu café da manhã ainda mais especial",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
-    "featured_collections_xbBHy7": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_dMLzWh": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Nossos organizadores",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_dMLzWh"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -357,9 +191,6 @@
     "featured_collections_3AJKUN",
     "main",
     "collection_list_VdBdEU",
-    "featured_collections_iHXXTV",
-    "featured_collections_pVcyqr",
-    "collection_list_EK4L3x",
-    "featured_collections_xbBHy7"
+    "featured_collections_iHXXTV"
   ]
 }
