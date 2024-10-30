@@ -30,23 +30,6 @@
     "collection_list_VdBdEU": {
       "type": "collection-list",
       "blocks": {
-        "collection_iFr3Hk": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
@@ -64,7 +47,7 @@
             "button_text_color": ""
           }
         },
-        "collection_aRe9yL": {
+        "collection_iFr3Hk": {
           "type": "collection",
           "settings": {
             "collection": "",
@@ -72,7 +55,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -83,9 +66,8 @@
         }
       },
       "block_order": [
-        "collection_iFr3Hk",
         "collection_jbVaDT",
-        "collection_aRe9yL"
+        "collection_iFr3Hk"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -95,82 +77,8 @@
         "stack_collections": false,
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Toalhas",
         "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
-    "collection_list_NUX4GJ": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_9rtM7P": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_3rN64i": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_Pi6QPz": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_9rtM7P",
-        "collection_3rN64i",
-        "collection_Pi6QPz"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Titulo",
-        "content": "<p>Subtitulo</p>",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
       }
@@ -197,12 +105,63 @@
         "show_color_swatch": false,
         "open_filters_by_default": false
       }
+    },
+    "featured_collections_TMnKYk": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_ggwG3a": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "Sabonete líquido",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_ggwG3a"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "image_with_text_wmC4VN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QRfULX": {
+          "type": "heading",
+          "settings": {
+            "text": "Transforme o seu lavabo com um toque especial",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QRfULX"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "collection-banner",
     "collection_list_VdBdEU",
-    "collection_list_NUX4GJ",
-    "main"
+    "main",
+    "featured_collections_TMnKYk",
+    "image_with_text_wmC4VN"
   ]
 }
