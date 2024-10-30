@@ -38,7 +38,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "",
+            "button_text": "View products",
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -63,11 +63,29 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "collection_aRe9yL": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "collection_iFr3Hk",
-        "collection_jbVaDT"
+        "collection_jbVaDT",
+        "collection_aRe9yL"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -75,40 +93,86 @@
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
-        "collections_per_row_desktop": 2,
+        "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Muranos",
+        "title": "",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
       }
     },
-    "featured_collections_3AJKUN": {
-      "type": "featured-collections",
+    "collection_list_NUX4GJ": {
+      "type": "collection-list",
       "blocks": {
-        "collection_bgMmpN": {
+        "collection_9rtM7P": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "products_count": 8,
-            "title": "Vasos",
-            "link_url": "",
-            "link_text": "View all"
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "collection_3rN64i": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "collection_Pi6QPz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "collection_bgMmpN"
+        "collection_9rtM7P",
+        "collection_3rN64i",
+        "collection_Pi6QPz"
       ],
       "settings": {
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
+        "image_size": "sm",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Titulo",
+        "content": "<p>Subtitulo</p>",
+        "circle_button_background": "#ffffff",
+        "circle_button_text_color": "#1c1c1c"
       }
     },
     "main": {
@@ -133,173 +197,12 @@
         "show_color_swatch": false,
         "open_filters_by_default": false
       }
-    },
-    "collection_list_EK4L3x": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_XkJ78L": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_JH3QYJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_hnXjd4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_hnXjd4"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Para compor a sua decoração",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
-    "featured_collections_xbBHy7": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_dMLzWh": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Cestos",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_dMLzWh"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
-    "collection_list_bP3JfM": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Fjjknz": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_VVKqGM": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_Fjjknz",
-        "collection_VVKqGM"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Almofadas",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
     }
   },
   "order": [
     "collection-banner",
     "collection_list_VdBdEU",
-    "featured_collections_3AJKUN",
-    "main",
-    "collection_list_EK4L3x",
-    "featured_collections_xbBHy7",
-    "collection_list_bP3JfM"
+    "collection_list_NUX4GJ",
+    "main"
   ]
 }
