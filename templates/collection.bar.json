@@ -230,38 +230,10 @@
         "stack_collections": false,
         "collections_per_row_desktop": 2,
         "subheading": "",
-        "title": "<strong>Para aproveitar momentos especiais</strong>",
+        "title": "Para aproveitar momentos especiais",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
-      }
-    },
-    "featured_collections_xbBHy7": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_dMLzWh": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Nossos organizadores",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_dMLzWh"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
       }
     }
   },
@@ -271,7 +243,6 @@
     "main",
     "collection_list_VdBdEU",
     "featured_collections_iHXXTV",
-    "collection_list_EK4L3x",
-    "featured_collections_xbBHy7"
+    "collection_list_EK4L3x"
   ]
 }
