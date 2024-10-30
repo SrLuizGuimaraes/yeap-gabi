@@ -27,44 +27,60 @@
         "overlay_opacity": 0
       }
     },
-    "image_with_text_NReknX": {
-      "type": "image-with-text",
+    "collection_list_VdBdEU": {
+      "type": "collection-list",
       "blocks": {
-        "heading_JPbxLe": {
-          "type": "heading",
+        "collection_iFr3Hk": {
+          "type": "collection",
           "settings": {
-            "text": "Nossa linha",
-            "heading_tag": "h1"
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
           }
         },
-        "richtext_nKjree": {
-          "type": "richtext",
+        "collection_jbVaDT": {
+          "type": "collection",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_PiHTVQ": {
-          "type": "button",
-          "settings": {
-            "style": "outline",
-            "text": "Button text",
-            "url": "",
-            "background": "",
-            "text_color": ""
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_JPbxLe",
-        "richtext_nKjree",
-        "button_PiHTVQ"
+        "collection_iFr3Hk",
+        "collection_jbVaDT"
       ],
       "settings": {
         "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "end",
-        "content_width": "md",
-        "remove_vertical_spacing": true
+        "image_size": "sm",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_desktop": 2,
+        "subheading": "",
+        "title": "Muranos",
+        "content": "",
+        "circle_button_background": "#ffffff",
+        "circle_button_text_color": "#1c1c1c"
       }
     },
     "featured_collections_3AJKUN": {
@@ -75,7 +91,7 @@
           "settings": {
             "collection": "",
             "products_count": 8,
-            "title": "Nossos Pratos",
+            "title": "Vasos",
             "link_url": "",
             "link_text": "View all"
           }
@@ -116,136 +132,6 @@
         "show_filter_values_count": true,
         "show_color_swatch": false,
         "open_filters_by_default": false
-      }
-    },
-    "collection_list_VdBdEU": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_iFr3Hk": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_jbVaDT": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_xRiAXD": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_iFr3Hk",
-        "collection_jbVaDT",
-        "collection_xRiAXD"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
-    "featured_collections_iHXXTV": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_XY3qMw": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Nossos sousplats",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_XY3qMw"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
-    "featured_collections_pVcyqr": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_RqdWdB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "Nossos jogos americanos",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_RqdWdB"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
       }
     },
     "collection_list_EK4L3x": {
@@ -314,9 +200,9 @@
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
-        "collections_per_row_desktop": 3,
+        "collections_per_row_desktop": 2,
         "subheading": "",
-        "title": "Para deixar o seu café da manhã ainda mais especial",
+        "title": "Para compor a sua decoração",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
@@ -330,7 +216,7 @@
           "settings": {
             "collection": "",
             "products_count": 8,
-            "title": "Nossos organizadores",
+            "title": "Cestos",
             "link_url": "",
             "link_text": "View all"
           }
@@ -349,17 +235,71 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
+    },
+    "collection_list_bP3JfM": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_Fjjknz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "collection_VVKqGM": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_Fjjknz",
+        "collection_VVKqGM"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Almofadas",
+        "content": "",
+        "circle_button_background": "#ffffff",
+        "circle_button_text_color": "#1c1c1c"
+      }
     }
   },
   "order": [
     "collection-banner",
-    "image_with_text_NReknX",
+    "collection_list_VdBdEU",
     "featured_collections_3AJKUN",
     "main",
-    "collection_list_VdBdEU",
-    "featured_collections_iHXXTV",
-    "featured_collections_pVcyqr",
     "collection_list_EK4L3x",
-    "featured_collections_xbBHy7"
+    "featured_collections_xbBHy7",
+    "collection_list_bP3JfM"
   ]
 }
