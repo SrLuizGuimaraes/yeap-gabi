@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -24,43 +24,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "image_with_text_NReknX": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_kqkzBd": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_JPbxLe": {
-          "type": "heading",
-          "settings": {
-            "text": "Nossa linha",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_nKjree": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_kqkzBd",
-        "heading_JPbxLe",
-        "richtext_nKjree"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
       }
     },
     "main": {
@@ -162,7 +125,6 @@
   },
   "order": [
     "collection-banner",
-    "image_with_text_NReknX",
     "main",
     "collection_list_VdBdEU"
   ]
