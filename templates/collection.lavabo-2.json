@@ -33,7 +33,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "toalhas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -112,7 +112,7 @@
         "collection_ggwG3a": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sabonete-liquido",
             "products_count": 8,
             "title": "Sabonete líquido",
             "link_url": "",
