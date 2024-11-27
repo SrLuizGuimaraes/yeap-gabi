@@ -67,7 +67,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -84,7 +84,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -101,7 +101,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -118,7 +118,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -135,7 +135,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -152,7 +152,7 @@
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "button_background": "",
             "button_text_color": ""
           }
@@ -172,7 +172,7 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image_size": "auto",
+        "image_size": "md",
         "show_text_outside": false,
         "space_items": false,
         "stack_collections": false,
