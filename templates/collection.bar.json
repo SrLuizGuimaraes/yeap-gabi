@@ -84,7 +84,7 @@
         "collection_iFr3Hk": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bandejas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -101,7 +101,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "garrafas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -168,7 +168,7 @@
         "collection_XkJ78L": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "prataria",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -185,24 +185,7 @@
         "collection_JH3QYJ": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_hnXjd4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "suqueira",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -219,8 +202,7 @@
       },
       "block_order": [
         "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_hnXjd4"
+        "collection_JH3QYJ"
       ],
       "settings": {
         "separate_section_with_border": true,
