@@ -50,7 +50,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "muranos",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -89,7 +89,7 @@
         "collection_bgMmpN": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "vasos",
             "products_count": 8,
             "title": "Vasos",
             "link_url": "",
@@ -140,7 +140,7 @@
         "collection_XkJ78L": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "livros",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -157,24 +157,7 @@
         "collection_JH3QYJ": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_hnXjd4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "adornos",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -191,8 +174,7 @@
       },
       "block_order": [
         "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_hnXjd4"
+        "collection_JH3QYJ"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -214,7 +196,7 @@
         "collection_dMLzWh": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "cestos",
             "products_count": 8,
             "title": "Cestos",
             "link_url": "",
@@ -242,7 +224,7 @@
         "collection_Fjjknz": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "almofadas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
