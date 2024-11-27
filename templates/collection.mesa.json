@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -73,7 +73,7 @@
         "collection_bgMmpN": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "prato",
             "products_count": 8,
             "title": "Nossos Pratos",
             "link_url": "",
@@ -124,7 +124,7 @@
         "collection_iFr3Hk": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "talheres",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -141,7 +141,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "porta-guardanapo",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -158,7 +158,7 @@
         "collection_xRiAXD": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "guardanapo",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -198,7 +198,7 @@
         "collection_XY3qMw": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "sousplat",
             "products_count": 8,
             "title": "Nossos sousplats",
             "link_url": "",
@@ -226,7 +226,7 @@
         "collection_RqdWdB": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "jogo-americano",
             "products_count": 8,
             "title": "Nossos jogos americanos",
             "link_url": "",
@@ -254,7 +254,7 @@
         "collection_XkJ78L": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "xicaras",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -271,24 +271,7 @@
         "collection_JH3QYJ": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_hnXjd4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "bowls",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -305,8 +288,7 @@
       },
       "block_order": [
         "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_hnXjd4"
+        "collection_JH3QYJ"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -328,7 +310,7 @@
         "collection_dMLzWh": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "organizadores",
             "products_count": 8,
             "title": "Nossos organizadores",
             "link_url": "",
