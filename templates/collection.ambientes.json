@@ -33,7 +33,7 @@
         "collection_iFr3Hk": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "aromatizadores",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -50,7 +50,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "difusores",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -67,7 +67,7 @@
         "collection_aRe9yL": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "velas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -169,7 +169,7 @@
         "stack_collections": false,
         "collections_per_row_desktop": 3,
         "subheading": "",
-        "title": "Titulo",
+        "title": "a definir",
         "content": "<p>Subtitulo</p>",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
