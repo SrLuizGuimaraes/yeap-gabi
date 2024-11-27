@@ -55,7 +55,7 @@
         "collection_bgMmpN": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "garrafas",
             "products_count": 8,
             "title": "Nossas garrafas",
             "link_url": "",
@@ -123,7 +123,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "saleiro-e-pimenteiro",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -162,7 +162,7 @@
         "collection_XY3qMw": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "tabuas",
             "products_count": 8,
             "title": "Nossas tábuas",
             "link_url": "",
