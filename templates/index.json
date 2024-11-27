@@ -109,7 +109,7 @@
         "collection_pUHqGP": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "decoracoes",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -126,7 +126,7 @@
         "collection_Xqkaib": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "ambientes",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -143,24 +143,7 @@
         "collection_NR6DgA": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_NTFwat": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "collection": "lavabo",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -181,8 +164,7 @@
         "collection_mT6EXe",
         "collection_pUHqGP",
         "collection_Xqkaib",
-        "collection_NR6DgA",
-        "collection_NTFwat"
+        "collection_NR6DgA"
       ],
       "custom_css": [
         "{margin-top: 2%;}",
