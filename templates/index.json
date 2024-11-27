@@ -75,7 +75,7 @@
         "collection_gJ3gV7": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bar",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -92,7 +92,7 @@
         "collection_mT6EXe": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "cozinha",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
