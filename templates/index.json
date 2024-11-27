@@ -58,7 +58,7 @@
         "collection_NgLMYY": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "mesa",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
