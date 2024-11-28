@@ -63,7 +63,7 @@
             "content_position": "place-self-end-start text-start",
             "subheading": "",
             "title": "",
-            "button_text": "View products",
+            "button_text": "{{ block.settings.collection.title }}",
             "button_link": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
