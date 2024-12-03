@@ -221,6 +221,34 @@
         "subheading": ""
       }
     },
+    "featured_collections_hhRhBB": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_7wddrW": {
+          "type": "collection",
+          "settings": {
+            "collection": "guardanapo",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7wddrW"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection_list_EK4L3x": {
       "type": "collection-list",
       "blocks": {
@@ -276,44 +304,16 @@
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
       }
-    },
-    "featured_collections_hhRhBB": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_7wddrW": {
-          "type": "collection",
-          "settings": {
-            "collection": "guardanapo",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_7wddrW"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
     }
   },
   "order": [
     "collection-banner",
     "image_with_text_NReknX",
     "featured_collections_3AJKUN",
-    "main",
-    "collection_list_VdBdEU",
-    "featured_collections_pVcyqr",
     "collection_list_EK4L3x",
-    "featured_collections_hhRhBB"
+    "main",
+    "featured_collections_pVcyqr",
+    "featured_collections_hhRhBB",
+    "collection_list_VdBdEU"
   ]
 }
