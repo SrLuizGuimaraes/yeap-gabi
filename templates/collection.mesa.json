@@ -193,34 +193,6 @@
         "circle_button_text_color": "#1c1c1c"
       }
     },
-    "featured_collections_iHXXTV": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_XY3qMw": {
-          "type": "collection",
-          "settings": {
-            "collection": "sousplat",
-            "products_count": 8,
-            "title": "Nossos sousplats",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_XY3qMw"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
     "featured_collections_pVcyqr": {
       "type": "featured-collections",
       "blocks": {
@@ -305,22 +277,22 @@
         "circle_button_text_color": "#1c1c1c"
       }
     },
-    "featured_collections_xbBHy7": {
+    "featured_collections_hhRhBB": {
       "type": "featured-collections",
       "blocks": {
-        "collection_dMLzWh": {
+        "collection_7wddrW": {
           "type": "collection",
           "settings": {
-            "collection": "organizadores",
+            "collection": "guardanapo",
             "products_count": 8,
-            "title": "Nossos organizadores",
+            "title": "",
             "link_url": "",
             "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "collection_dMLzWh"
+        "collection_7wddrW"
       ],
       "settings": {
         "separate_section_with_border": true,
@@ -340,9 +312,8 @@
     "featured_collections_3AJKUN",
     "main",
     "collection_list_VdBdEU",
-    "featured_collections_iHXXTV",
     "featured_collections_pVcyqr",
     "collection_list_EK4L3x",
-    "featured_collections_xbBHy7"
+    "featured_collections_hhRhBB"
   ]
 }
