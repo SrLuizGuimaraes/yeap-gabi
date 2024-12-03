@@ -27,60 +27,32 @@
         "overlay_opacity": 0
       }
     },
-    "collection_list_VdBdEU": {
-      "type": "collection-list",
+    "featured_collections_epnHbA": {
+      "type": "featured-collections",
       "blocks": {
-        "collection_iFr3Hk": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_jbVaDT": {
+        "collection_kRTRUm": {
           "type": "collection",
           "settings": {
             "collection": "muranos",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
+            "products_count": 8,
             "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
+            "link_url": "",
+            "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "collection_iFr3Hk",
-        "collection_jbVaDT"
+        "collection_kRTRUm"
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Muranos",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
       }
     },
     "featured_collections_3AJKUN": {
@@ -170,19 +142,37 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "collection_m9LXmh": {
+          "type": "collection",
+          "settings": {
+            "collection": "almofadas",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "collection_XkJ78L",
-        "collection_JH3QYJ"
+        "collection_JH3QYJ",
+        "collection_m9LXmh"
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image_size": "sm",
+        "image_size": "xs",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
-        "collections_per_row_desktop": 2,
+        "collections_per_row_desktop": 3,
         "subheading": "",
         "title": "Para compor a sua decoração",
         "content": "",
@@ -192,21 +182,6 @@
     },
     "featured_collections_xbBHy7": {
       "type": "featured-collections",
-      "blocks": {
-        "collection_dMLzWh": {
-          "type": "collection",
-          "settings": {
-            "collection": "cestos",
-            "products_count": 8,
-            "title": "Cestos",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_dMLzWh"
-      ],
       "settings": {
         "separate_section_with_border": true,
         "hide_product_information": false,
@@ -217,71 +192,14 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
-    },
-    "collection_list_bP3JfM": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Fjjknz": {
-          "type": "collection",
-          "settings": {
-            "collection": "almofadas",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_VVKqGM": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_Fjjknz",
-        "collection_VVKqGM"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Almofadas",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
     }
   },
   "order": [
     "collection-banner",
-    "collection_list_VdBdEU",
+    "featured_collections_epnHbA",
     "featured_collections_3AJKUN",
     "main",
     "collection_list_EK4L3x",
-    "featured_collections_xbBHy7",
-    "collection_list_bP3JfM"
+    "featured_collections_xbBHy7"
   ]
 }
