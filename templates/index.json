@@ -166,10 +166,6 @@
         "collection_Xqkaib",
         "collection_NR6DgA"
       ],
-      "custom_css": [
-        "{margin-top: 2%;}",
-        ".collection-list {gap: var(--collection-list-gap, 5px);"
-      ],
       "settings": {
         "separate_section_with_border": true,
         "image_size": "auto",
@@ -221,7 +217,7 @@
         "collection_kJURLm": {
           "type": "collection",
           "settings": {
-            "collection": "kimono",
+            "collection": "best-seller",
             "products_count": 8,
             "title": "Best sellers",
             "link_url": "",
@@ -246,35 +242,12 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
-    },
-    "image_with_text_YYNfVt": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_NiG4HG": {
-          "type": "heading",
-          "settings": {
-            "text": "Transforme o seu ambiente com nossos aromas autorais.",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NiG4HG"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
     }
   },
   "order": [
     "slideshow",
     "collection_list_LNQHQ7",
     "rich_text_acExkH",
-    "featured_collections_Yk6KQG",
-    "image_with_text_YYNfVt"
+    "featured_collections_Yk6KQG"
   ]
 }
