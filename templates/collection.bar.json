@@ -27,34 +27,6 @@
         "overlay_opacity": 0
       }
     },
-    "featured_collections_3AJKUN": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_bgMmpN": {
-          "type": "collection",
-          "settings": {
-            "collection": "tacas",
-            "products_count": 8,
-            "title": "Nossas Taças",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_bgMmpN"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
     "main": {
       "type": "main-collection",
       "disabled": true,
@@ -84,7 +56,7 @@
         "collection_iFr3Hk": {
           "type": "collection",
           "settings": {
-            "collection": "bandejas",
+            "collection": "copos",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -101,7 +73,7 @@
         "collection_jbVaDT": {
           "type": "collection",
           "settings": {
-            "collection": "garrafas",
+            "collection": "tacas",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -122,7 +94,7 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image_size": "sm",
+        "image_size": "md",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
@@ -140,7 +112,7 @@
         "collection_XY3qMw": {
           "type": "collection",
           "settings": {
-            "collection": "copos",
+            "collection": "bandejas",
             "products_count": 8,
             "title": "Nossos Copos",
             "link_url": "",
@@ -161,70 +133,12 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
-    },
-    "collection_list_EK4L3x": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_XkJ78L": {
-          "type": "collection",
-          "settings": {
-            "collection": "prataria",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_JH3QYJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "suqueira",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_XkJ78L",
-        "collection_JH3QYJ"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Para aproveitar momentos especiais",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
     }
   },
   "order": [
     "collection-banner",
-    "featured_collections_3AJKUN",
     "main",
     "collection_list_VdBdEU",
-    "featured_collections_iHXXTV",
-    "collection_list_EK4L3x"
+    "featured_collections_iHXXTV"
   ]
 }
