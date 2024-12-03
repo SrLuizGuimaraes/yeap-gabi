@@ -33,21 +33,21 @@
         "heading_JPbxLe": {
           "type": "heading",
           "settings": {
-            "text": "Nossa linha",
+            "text": "Flower Festival",
             "heading_tag": "h1"
           }
         },
         "richtext_nKjree": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>A peça tem um design floral com flores de chintz vermelho e rosa com folhas azuis e verdes claras combinadas com o belo design Scallop.</p>"
           }
         },
         "button_PiHTVQ": {
           "type": "button",
           "settings": {
             "style": "outline",
-            "text": "Button text",
+            "text": "Veja a coleção",
             "url": "",
             "background": "",
             "text_color": ""
@@ -61,6 +61,7 @@
       ],
       "settings": {
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/Design_sem_nome_2.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "md",
