@@ -13,7 +13,7 @@
       "type": "collection-banner",
       "settings": {
         "image": "shopify://shop_images/1_c1bbc610-908b-4411-a37e-f87798dc7c2d.png",
-        "image_size": "xs",
+        "image_size": "sm",
         "allow_transparent_header": true,
         "reveal": false,
         "enable_parallax": false,
@@ -94,7 +94,7 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image_size": "md",
+        "image_size": "xs",
         "show_text_outside": false,
         "space_items": true,
         "stack_collections": false,
