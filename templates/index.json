@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banner_1.png",
+            "image": "shopify://shop_images/Banner_2.png",
             "subheading": "",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
@@ -32,7 +32,7 @@
             "button_2_background": "#ffffff",
             "button_2_text_color": "#000000",
             "background": "",
-            "background_opacity": 0,
+            "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
             "gradient_overlay": ""
