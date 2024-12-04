@@ -56,11 +56,11 @@
     "collection_list_LNQHQ7": {
       "type": "collection-list",
       "blocks": {
-        "collection_NgLMYY": {
+        "collection_gJ3gV7": {
           "type": "collection",
           "settings": {
-            "collection": "mesa",
-            "image": "shopify://shop_images/Design_sem_nome_37.png",
+            "collection": "bar",
+            "image": "shopify://shop_images/Design_sem_nome_39.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -74,11 +74,11 @@
             "button_text_color": ""
           }
         },
-        "collection_gJ3gV7": {
+        "collection_NgLMYY": {
           "type": "collection",
           "settings": {
-            "collection": "bar",
-            "image": "shopify://shop_images/Design_sem_nome_39.png",
+            "collection": "mesa",
+            "image": "shopify://shop_images/Design_sem_nome_37.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -130,8 +130,8 @@
         }
       },
       "block_order": [
-        "collection_NgLMYY",
         "collection_gJ3gV7",
+        "collection_NgLMYY",
         "collection_mT6EXe",
         "collection_pUHqGP"
       ],
