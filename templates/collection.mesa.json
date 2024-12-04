@@ -11,14 +11,13 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/3_aeeae907-28af-4524-9e71-3aee91ed0dc8.png",
-        "image_size": "xs",
+        "image": "shopify://shop_images/Design_sem_nome_18.png",
+        "image_size": "sm",
         "allow_transparent_header": true,
         "reveal": false,
         "enable_parallax": false,
-        "show_collection_title": true,
+        "show_collection_title": false,
         "show_collection_description": false,
         "show_breadcrumb": false,
         "content_width": "xs",
