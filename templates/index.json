@@ -59,6 +59,7 @@
           "type": "collection",
           "settings": {
             "collection": "mesa",
+            "image": "shopify://shop_images/Design_sem_nome_37.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -76,6 +77,7 @@
           "type": "collection",
           "settings": {
             "collection": "bar",
+            "image": "shopify://shop_images/Design_sem_nome_39.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -93,6 +95,7 @@
           "type": "collection",
           "settings": {
             "collection": "cozinha",
+            "image": "shopify://shop_images/Design_sem_nome_38.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
@@ -110,6 +113,7 @@
           "type": "collection",
           "settings": {
             "collection": "decoracoes",
+            "image": "shopify://shop_images/Design_sem_nome_36.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
