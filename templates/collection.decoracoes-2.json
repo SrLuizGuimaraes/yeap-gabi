@@ -42,11 +42,22 @@
           "settings": {
             "content": "<p>Vasos modernas e elegentes para compor a sua decoração</p>"
           }
+        },
+        "button_NbCn9e": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Veja coleção",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "heading_4gEE6w",
-        "richtext_TWeqNi"
+        "richtext_TWeqNi",
+        "button_NbCn9e"
       ],
       "settings": {
         "separate_section_with_border": true,
