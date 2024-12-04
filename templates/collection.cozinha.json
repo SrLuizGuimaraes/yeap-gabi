@@ -78,6 +78,34 @@
         "open_filters_by_default": false
       }
     },
+    "featured_collections_nreqDQ": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_kRDqz4": {
+          "type": "collection",
+          "settings": {
+            "collection": "petisqueria",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_kRDqz4"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "featured_collections_iHXXTV": {
       "type": "featured-collections",
       "blocks": {
@@ -105,12 +133,42 @@
         "vertical_spacing_factor": 1,
         "subheading": ""
       }
+    },
+    "featured_collections_Tn3Qap": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_6XryGY": {
+          "type": "collection",
+          "settings": {
+            "collection": "garrafa-termica",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_6XryGY"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
     }
   },
   "order": [
     "collection-banner",
     "featured_collections_3AJKUN",
     "main",
-    "featured_collections_iHXXTV"
+    "featured_collections_nreqDQ",
+    "featured_collections_iHXXTV",
+    "featured_collections_Tn3Qap"
   ]
 }
