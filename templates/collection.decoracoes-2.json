@@ -27,32 +27,34 @@
         "overlay_opacity": 0
       }
     },
-    "featured_collections_epnHbA": {
-      "type": "featured-collections",
+    "image_with_text_pgWfmF": {
+      "type": "image-with-text",
       "blocks": {
-        "collection_kRTRUm": {
-          "type": "collection",
+        "heading_4gEE6w": {
+          "type": "heading",
           "settings": {
-            "collection": "muranos",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
+            "text": "Vasos Rocks",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TWeqNi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Vasos modernas e elegentes para compor a sua decoração</p>"
           }
         }
       },
       "block_order": [
-        "collection_kRTRUm"
+        "heading_4gEE6w",
+        "richtext_TWeqNi"
       ],
       "settings": {
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
+        "image": "shopify://shop_images/Design_sem_nome_29.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "featured_collections_3AJKUN": {
@@ -196,7 +198,7 @@
   },
   "order": [
     "collection-banner",
-    "featured_collections_epnHbA",
+    "image_with_text_pgWfmF",
     "featured_collections_3AJKUN",
     "main",
     "collection_list_EK4L3x",
