@@ -27,80 +27,6 @@
         "overlay_opacity": 0
       }
     },
-    "collection_list_EK4L3x": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_XkJ78L": {
-          "type": "collection",
-          "settings": {
-            "collection": "livros",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_JH3QYJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "adornos",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_m9LXmh": {
-          "type": "collection",
-          "settings": {
-            "collection": "almofadas",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_XkJ78L",
-        "collection_JH3QYJ",
-        "collection_m9LXmh"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "xs",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Para compor a sua decoração",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
     "featured_collections_epnHbA": {
       "type": "featured-collections",
       "blocks": {
@@ -180,6 +106,80 @@
         "open_filters_by_default": false
       }
     },
+    "collection_list_EK4L3x": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_XkJ78L": {
+          "type": "collection",
+          "settings": {
+            "collection": "livros",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "{{ block.settings.collection.title }}",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "collection_JH3QYJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "adornos",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "{{ block.settings.collection.title }}",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "collection_m9LXmh": {
+          "type": "collection",
+          "settings": {
+            "collection": "almofadas",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_XkJ78L",
+        "collection_JH3QYJ",
+        "collection_m9LXmh"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image_size": "xs",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": false,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Para compor a sua decoração",
+        "content": "",
+        "circle_button_background": "#ffffff",
+        "circle_button_text_color": "#1c1c1c"
+      }
+    },
     "featured_collections_xbBHy7": {
       "type": "featured-collections",
       "settings": {
@@ -196,10 +196,10 @@
   },
   "order": [
     "collection-banner",
-    "collection_list_EK4L3x",
     "featured_collections_epnHbA",
     "featured_collections_3AJKUN",
     "main",
+    "collection_list_EK4L3x",
     "featured_collections_xbBHy7"
   ]
 }
