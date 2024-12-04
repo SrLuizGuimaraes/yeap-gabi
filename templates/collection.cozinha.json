@@ -12,12 +12,12 @@
     "collection-banner": {
       "type": "collection-banner",
       "settings": {
-        "image": "shopify://shop_images/cafe-cup-on-wood-table.jpg",
-        "image_size": "xs",
+        "image": "shopify://shop_images/Design_sem_nome_27.png",
+        "image_size": "sm",
         "allow_transparent_header": true,
         "reveal": false,
         "enable_parallax": false,
-        "show_collection_title": true,
+        "show_collection_title": false,
         "show_collection_description": false,
         "show_breadcrumb": false,
         "content_width": "xs",
@@ -25,28 +25,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "image_with_text_NReknX": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_JPbxLe": {
-          "type": "heading",
-          "settings": {
-            "text": "Sirva com estilo e charme!",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_JPbxLe"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "reveal_on_scroll": true,
-        "image_position": "end",
-        "content_width": "md",
-        "remove_vertical_spacing": true
       }
     },
     "featured_collections_3AJKUN": {
@@ -100,62 +78,6 @@
         "open_filters_by_default": false
       }
     },
-    "collection_list_VdBdEU": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_iFr3Hk": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "collection_jbVaDT": {
-          "type": "collection",
-          "settings": {
-            "collection": "saleiro-e-pimenteiro",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "{{ block.settings.collection.title }}",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_iFr3Hk",
-        "collection_jbVaDT"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "image_size": "sm",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": false,
-        "collections_per_row_desktop": 2,
-        "subheading": "",
-        "title": "Saleiro e pimenteiro",
-        "content": "",
-        "circle_button_background": "#ffffff",
-        "circle_button_text_color": "#1c1c1c"
-      }
-    },
     "featured_collections_iHXXTV": {
       "type": "featured-collections",
       "blocks": {
@@ -187,10 +109,8 @@
   },
   "order": [
     "collection-banner",
-    "image_with_text_NReknX",
     "featured_collections_3AJKUN",
     "main",
-    "collection_list_VdBdEU",
     "featured_collections_iHXXTV"
   ]
 }
