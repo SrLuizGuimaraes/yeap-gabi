@@ -87,6 +87,9 @@
         "collection_jbVaDT",
         "collection_aRe9yL"
       ],
+      "custom_css": [
+        ".button {color: white; background-color: #670019 !important; border-radius: none !important; border-color: #670019; background-image: none;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "image_size": "sm",
