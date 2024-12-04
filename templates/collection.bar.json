@@ -92,6 +92,9 @@
         "collection_iFr3Hk",
         "collection_jbVaDT"
       ],
+      "custom_css": [
+        ".button {color: white; background-color: #670019 !important; border-radius: none !important; border-color: #670019; background-image: none;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "image_size": "xs",
@@ -100,7 +103,7 @@
         "stack_collections": false,
         "collections_per_row_desktop": 2,
         "subheading": "",
-        "title": " <strong>Para compor o seu bar</strong>",
+        "title": " Para compor o seu bar",
         "content": "",
         "circle_button_background": "#ffffff",
         "circle_button_text_color": "#1c1c1c"
