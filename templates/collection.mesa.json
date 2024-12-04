@@ -11,6 +11,7 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/3_aeeae907-28af-4524-9e71-3aee91ed0dc8.png",
         "image_size": "xs",
