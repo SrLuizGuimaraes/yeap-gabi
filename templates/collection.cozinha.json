@@ -27,6 +27,36 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_fM3zDW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wxXrj3": {
+          "type": "heading",
+          "settings": {
+            "text": "Sirva com estilo",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TAJTqg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>As petisqueiras da Aurea Sacilotto são perfeitas para servir com sofisticação.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wxXrj3",
+        "richtext_TAJTqg"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Design_sem_nome_30.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "featured_collections_3AJKUN": {
       "type": "featured-collections",
       "blocks": {
@@ -165,6 +195,7 @@
   },
   "order": [
     "collection-banner",
+    "image_with_text_fM3zDW",
     "featured_collections_3AJKUN",
     "main",
     "featured_collections_nreqDQ",
